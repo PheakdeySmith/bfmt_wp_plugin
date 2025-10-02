@@ -1,0 +1,24 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 02 09:47:44.573108 2025] [mpm_event:notice] [pid 7275:tid 139404926313344] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 02 09:47:44.573410 2025] [core:notice] [pid 7275:tid 139404926313344] AH00094: Command line: '/home/smith/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/smith/.config/Local/run/G6zav04OO/conf/apache/apache2.conf'
+[Thu Oct 02 09:49:50.189769 2025] [mpm_event:notice] [pid 7275:tid 139404926313344] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 02 09:49:52.341180 2025] [mpm_event:notice] [pid 8037:tid 123442548458368] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 02 09:49:52.341478 2025] [core:notice] [pid 8037:tid 123442548458368] AH00094: Command line: '/home/smith/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/smith/.config/Local/run/G6zav04OO/conf/apache/apache2.conf'
+[Thu Oct 02 09:52:34.813610 2025] [mpm_event:notice] [pid 8037:tid 123442548458368] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 02 09:52:38.614785 2025] [mpm_event:notice] [pid 8370:tid 133933894140800] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 02 09:52:38.615050 2025] [core:notice] [pid 8370:tid 133933894140800] AH00094: Command line: '/home/smith/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/smith/.config/Local/run/G6zav04OO/conf/apache/apache2.conf'
+[Thu Oct 02 09:57:20.625335 2025] [mpm_event:notice] [pid 8370:tid 133933894140800] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 02 09:57:33.547114 2025] [mpm_event:notice] [pid 10081:tid 133416128664448] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 02 09:57:33.547406 2025] [core:notice] [pid 10081:tid 133416128664448] AH00094: Command line: '/home/smith/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/smith/.config/Local/run/G6zav04OO/conf/apache/apache2.conf'
+[Thu Oct 02 10:02:21.170583 2025] [mpm_event:notice] [pid 10081:tid 133416128664448] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 02 10:02:24.383347 2025] [mpm_event:notice] [pid 11796:tid 139965866382208] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 02 10:02:24.383786 2025] [core:notice] [pid 11796:tid 139965866382208] AH00094: Command line: '/home/smith/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/smith/.config/Local/run/G6zav04OO/conf/apache/apache2.conf'
+[Thu Oct 02 10:02:45.765858 2025] [mpm_event:notice] [pid 11796:tid 139965866382208] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 02 10:02:48.156906 2025] [mpm_event:notice] [pid 12005:tid 137306225972096] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 02 10:02:48.157553 2025] [core:notice] [pid 12005:tid 137306225972096] AH00094: Command line: '/home/smith/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/smith/.config/Local/run/G6zav04OO/conf/apache/apache2.conf'
+[Thu Oct 02 10:02:56.761043 2025] [mpm_event:notice] [pid 12005:tid 137306225972096] AH00491: caught SIGTERM, shutting down
